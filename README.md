@@ -1,4 +1,5 @@
 # hello-world
 Just another repository
 
-This is something that was created in the tutorial process of GitHub.
+* This is something that was created in the tutorial process of GitHub.
+* これはGitHubのチュートリアルプロセスで作成されたものです。
